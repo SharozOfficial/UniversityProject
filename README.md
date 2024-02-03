@@ -37,4 +37,4 @@ For ease of code run have included the labelled data after processing it for tra
 
 1) Change the folder path defined in cell 13 as per our own system/directory path where the dataset will be downloaded.
    
-# Note: The model’s hyperparameter has been tuned using GridSearchCV, due to which it may take longer time for execution. Also, image feature extraction takes around an hour for training and testing dataset which is normal and is not alarming.
+#Note: The model’s hyperparameter has been tuned using GridSearchCV, due to which it may take longer time for execution. Also, image feature extraction takes around an hour for training and testing dataset which is normal and is not alarming.
