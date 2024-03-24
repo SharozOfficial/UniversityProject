@@ -1,4 +1,4 @@
-# UniversityProject
+# UniversityProject - Multimedia Populatity Prediction Of Beauty Brands(Lakeme, L'Oreal and Maybelline) from Instragram.
 
 # Appendix
 
