@@ -1,6 +1,6 @@
 # UniversityProject - Multimedia Populatity Prediction Of Beauty Brands(Lakeme, L'Oreal and Maybelline) from Instragram.
 
-# Techniques: Exploratory Data Analysis - (Data Imputation, Data Cleaning, Outlier Identification, Data Transformation), Machine Learning, NLP
+# Techniques: Exploratory Data Analysis - (Data Imputation, Data Cleaning, Outlier Identification, Data Transformation), Feature Engineering (Likes, Views, Comments, Media), Machine Learning, NLP
 
 # Appendix
 
